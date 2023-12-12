@@ -1,7 +1,7 @@
 
 
 import torch.nn as nn
-import torch.nn.functional as Fs
+import torch.nn.functional as F
 from .losses import SupConLoss
 
 
