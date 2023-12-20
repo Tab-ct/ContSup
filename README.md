@@ -42,3 +42,6 @@ With the provided codes, you may reproduce all of the following experiments from
 
 Please refer to "command.sh" for all the commands needed to reproduce the experiments that yielded the reported results.
 
+## Reference
+[1] C. Yu, F. Zhang, H. Ma, A. Wang, and E. Li, “Go beyond End-to-End Training: Boosting Greedy Local Learning with Context Supply.” arXiv, Dec. 12, 2023. doi: 10.48550/arXiv.2312.07636. Available: https://arxiv.org/abs/2312.07636.
+
